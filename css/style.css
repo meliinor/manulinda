@@ -2,7 +2,7 @@
 
 .all{
     background-color: #252323;
-    scroll-behavior: unset;
+    overflow: hidden;
 }
 
 .card{  
